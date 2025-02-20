@@ -352,3 +352,16 @@ label.fl.nosel.label.pnhead {
     color: #7e6dce;
 }
 </style>`).insertBefore('body');
+$(` <center><div></div><center></div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),$('a.label.label-primary.fl > img.fl').replaceWith('<img src="sico/z1casj3f6210.png" class="fl" style="margin-Right: 2px; width: 30px;">'),$(` <center><marquee direction="right" width="99%" id="asim55" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >قوانين الشات ● • في حال ذكر وتبيين اسماء مواقع اخرى تعرضك لحذف العضوية والحظر يرجى من الزوار والمراقبين عدم ذكر اسماء مواقع اخرى ● • وشكرآ لكم</marquee></font><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary')
+$(`<img tabindex="0" class="al120 fl " style="margin-left: -3px; padding:6px; width:35px;margin-top: -2px;" src="https://awtar-iq.com/site/Veri.webp" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
+$(".al120").click(function(){alert(" هذه الستايل تم تصميمه من قبل حسين النعيمي غير قابل للسرقه  ");});$('div#l2 button.btn.btn-primary')['bind']
+$('.fl.ustat')
+    .css('width', '3px'), $('.fa.fa-user-plus')
+    .html(`❥تسجيل `), document.getElementById('u1')
+    .placeholder = 'اكتب اسمك من 5 احرف فقط ', 
+document.getElementById('pass1')
+  .placeholder = 'كلمة المرور', document.getElementById('u2')
+    .placeholder = 'فخأمة طلتك تنورنا', document.getElementById('pass2')
+    .placeholder = ' ㋡ بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3')
+    .placeholder = '♥ أكتب اسمك ولازم تحفظه ';
+$('.fa.fa-user-plus').html(`تسجيل`);(document.getElementById("tbox").placeholder = "عمي عوف السطح ودردش ويانا");
